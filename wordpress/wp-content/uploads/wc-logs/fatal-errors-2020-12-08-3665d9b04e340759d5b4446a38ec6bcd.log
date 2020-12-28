@@ -1,0 +1,8 @@
+2020-12-08T16:11:15+00:00 CRITICAL Uncaught Error: Class 'Automattic\WooCommerce\Admin\API\OnboardingPlugins' not found in C:\laragon\www\boucheri\wordpress\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\Notes\WC_Admin_Notes_Install_JP_And_WCS_Plugins.php:112
+Stack trace:
+#0 C:\laragon\www\boucheri\wordpress\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\Notes\WC_Admin_Notes_Install_JP_And_WCS_Plugins.php(101): Automattic\WooCommerce\Admin\Notes\WC_Admin_Notes_Install_JP_And_WCS_Plugins->install_and_activate_plugin('jetpack')
+#1 C:\laragon\www\boucheri\wordpress\wp-includes\class-wp-hook.php(287): Automattic\WooCommerce\Admin\Notes\WC_Admin_Notes_Install_JP_And_WCS_Plugins->install_jp_and_wcs_plugins(Object(Automattic\WooCommerce\Admin\Notes\WC_Admin_Note))
+#2 C:\laragon\www\boucheri\wordpress\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#3 C:\laragon\www\boucheri\wordpress\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#4 C:\laragon\www\boucheri\wordpress\wp-content\plugins\woocom dans C:\laragon\www\boucheri\wordpress\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\Notes\WC_Admin_Notes_Install_JP_And_WCS_Plugins.php à la ligne 112
+

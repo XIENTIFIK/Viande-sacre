@@ -1,0 +1,86 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: 22 December 2020 14 h 32 min
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.3.40.1
+WORDPRESS:	5.4.4
+PHP INFO:	7.2.19 | SAPI: apache2handler
+SERVER:		Apache/2.4.35 (Win64) OpenSSL/1.1.1b PHP/7.2.19 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 4294967296 (512M default) 
+MEMORY STACK: 8MB
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Not Supported
+TABLES: total:51 | filtered:0 | create:51
+FILTERED: []
+SQL CREATED: 20201222_viandesacre_b1f6e44628edf3fc1528_20201222142958_database.sql
+SQL FILE SIZE: 5.08MB (5327376)
+SQL FILE TIME: 2020-12-22 14:32:49
+SQL RUNTIME: 5.31 sec.
+
+********************************************************************************
+ARCHIVE (ZIP):
+********************************************************************************
+ARCHIVE DIR:  C:/laragon/www/boucheri/wordpress
+ARCHIVE FILE: 20201222_viandesacre_b1f6e44628edf3fc1528_20201222142958_archive.zip
+FILTERS: *ON*
+DIRS:
+	C:/laragon/www/boucheri/wordpress/wp-content/plugins/facebook-for-woocommerce/includes/Products
+FILES:
+	not set
+EXTS:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	210.98MB
+STATS:	Dirs 1,979 | Files 10,924
+SQL ADDED: 20201222_viandesacre_b1f6e44628edf3fc1528_20201222142958_database.sql
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 12903
+    [filename] => C:\laragon\www\boucheri\wordpress\wp-content\backups-dup-lite\tmp\20201222_viandesacre_b1f6e44628edf3fc1528_20201222142958_archive.zip
+    [comment] => 
+)
+
+FILE ADDED TO ZIP: 12902
+COMPRESSION RESULT: '1'
+COMPRESSED SIZE: 90.23MB
+ARCHIVE RUNTIME: 685.76 sec.
+MEMORY STACK: 12MB
+building installer
+add_extra_files1
+add_extra_files2
+add_extra_files3
+add_extra_files4
+Doing archive file check
+add_extra_files5
+add_extra_files6
+add_extra_files8
+Successfully opened zip C:/laragon/www/boucheri/wordpress/wp-content/backups-dup-lite/tmp/20201222_viandesacre_b1f6e44628edf3fc1528_20201222142958_archive.zip
+Adding enhanced installer files to archive using ZipArchive
+Installer files added to archive
+Added to archive
+After ziparchive close when adding installer
+
+********************************************************************************
+INTEGRITY CHECKS:
+********************************************************************************
+SQL FILE: 5.08MB
+INSTALLER FILE: 61.29KB
+ARCHIVE FILE: 91.79MB 
+COMPTE ATTENDU DE FICHIERS/RÉPERTOIRES : 12,903
+COMPTE ACTUEL DE FICHIERS/RÉPERTOIRES : 12,902
+TEST DE COHÉRENCE D’ARCHIVE : Bon
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 704.57 sec.
+PEAK PHP MEMORY USED: 16MB
+DONE PROCESSING => 20201222_viandesacre 22 December 2020 14 h 44 min
+
